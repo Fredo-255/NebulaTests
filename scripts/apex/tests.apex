@@ -28,3 +28,5 @@ MyTest.testHttpPost();
 MyTest.scenario1();
 
 MyTest.testMessage();
+
+TestUow.testUpdate();
